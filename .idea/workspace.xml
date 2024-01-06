@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3384a8d8-fdb9-425c-935e-a178a7fc6846" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pizzajdbc/application/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pizzajdbc/infrastructure/database/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +47,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "D:/JavaAux/JDBC/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -61,6 +66,7 @@
       <workItem from="1704493553759" duration="3572000" />
       <workItem from="1704497705849" duration="9000" />
       <workItem from="1704544732714" duration="3138000" />
+      <workItem from="1704559587130" duration="1772000" />
     </task>
     <servers />
   </component>
