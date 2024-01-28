@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3384a8d8-fdb9-425c-935e-a178a7fc6846" name="Changes" comment="Add new Connection Directory">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pizzajdbc/application/services/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pizzajdbc/application/services/PizzaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pizzajdbc/application/services/RequestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pizzajdbc/infrastructure/dao/Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pizzajdbc/infrastructure/dao/DaoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pizzajdbc/infrastructure/dao/impl/CustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pizzajdbc/infrastructure/dao/impl/PizzaDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pizzajdbc/infrastructure/dao/impl/RequestDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pizzajdbc/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pizzajdbc/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pizzajdbc/application/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pizzajdbc/application/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -38,7 +49,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/meusprojetos/JDBC",
+    "last_opened_file_path": "D:/JavaAux/JDBC/src/main/java/com/pizzajdbc/application",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,6 +61,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaAux\JDBC\src\main\java\com\pizzajdbc\application" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,6 +80,10 @@
       <workItem from="1704497705849" duration="9000" />
       <workItem from="1704544732714" duration="3138000" />
       <workItem from="1704559587130" duration="2268000" />
+      <workItem from="1704752237221" duration="2746000" />
+      <workItem from="1704840588093" duration="2761000" />
+      <workItem from="1706399772715" duration="2694000" />
+      <workItem from="1706473849010" duration="2865000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Connection Directory">
       <option name="closed" value="true" />
